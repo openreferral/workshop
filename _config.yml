@@ -1,8 +1,8 @@
 # Site settings
-title: Your awesome title
-email: your-email@domain.com
+title: 'OpenReferral Workshop - July 2014'
+email: ""
 description: ""
-baseurl: "http://haileypate.github.io/site-open-referral-workshop/"
+baseurl: "http://openreferral.github.io/workshop/"
 url: ""
 safe: true
 lsi: false
