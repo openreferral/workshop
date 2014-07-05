@@ -1,6 +1,6 @@
 ---
 layout: default
-baseurl: 'http://haileypate.github.io/site-open-referral-workshop/'
+category: 'site-open-referral-workshop'
 ---
 
 #Page2
