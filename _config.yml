@@ -2,9 +2,10 @@
 title: Your awesome title
 email: your-email@domain.com
 description: ""
-baseurl: ""
-url: "http://haileypate.github.io/site-open-referral-summit"
+baseurl: "/"
+url: ""
 safe: true
+lsi: false
 
 # Build settings
 markdown: kramdown
