@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+    <body>
+
+    {% include top-nav.html %}
+
+      <div class="container-fluid">
+        <div class="row">
+        
+        {% include side-nav.html %}
+
+        <div class="col-sm-9 col-sm-offset-3 col-md-10 col-md-offset-2 main">
+
+        {{ content }}
+
+        </div><!--main-->
+      </div><!--container-fluid-->
+
+      {% include footer.html %}
+
+    </body>
+</html>
