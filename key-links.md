@@ -8,6 +8,7 @@ category: 'site-open-referral-workshop'
 <h4>Open Referral documentation</h4>
 <li><a href="https://docs.google.com/document/d/1AdmufRDAjeC5lmcjbCSGxPWZvMKpgNQGWIStD7R4HS8/edit#">One Page summary</a>
 <li><a href="https://docs.google.com/document/d/17cJxF_1P6fafcsFJQERFQifKKc_kPbAKmAXwe2LWDcI/edit#">Public Documentation</a></li>
+<li><a href="https://docs.google.com/document/d/1yMlPkfKB6iHL3nwDZdsSlU-AuSrGxeRPXx88v7-itZk/edit">Architecture of Participation</a></li>
 <li><a href="https://docs.google.com/document/d/1pB6QxbFSNGKDKmcpJ79ZHCkLL6UR_TsZhBraYUEyOzU/edit#">Work Group framework</a></li>
 <li><a href="https://docs.google.com/document/d/1-E1GljxGw1SFO-TdYCoKr24uvHGnaWGttm-_dDsFN68/edit#">Local Team framework</a></li>
 <li>Open Referral model: <a href="https://docs.google.com/document/d/1RwHkuPeG5cztk-gcofuqsXRxWaTYZeHa8mLjC2doCwk/edit?usp=sharing">Google Doc"</a>; <a href="http://github.com/codeforamerica/openreferral">Github repo</a></li>
