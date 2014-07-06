@@ -11,7 +11,7 @@ category: 'site-open-referral-workshop'
 <li><a href="https://docs.google.com/document/d/1yMlPkfKB6iHL3nwDZdsSlU-AuSrGxeRPXx88v7-itZk/edit">Architecture of Participation</a></li>
 <li><a href="https://docs.google.com/document/d/1pB6QxbFSNGKDKmcpJ79ZHCkLL6UR_TsZhBraYUEyOzU/edit#">Work Group framework</a></li>
 <li><a href="https://docs.google.com/document/d/1-E1GljxGw1SFO-TdYCoKr24uvHGnaWGttm-_dDsFN68/edit#">Local Team framework</a></li>
-<li>Open Referral model: <a href="https://docs.google.com/document/d/1RwHkuPeG5cztk-gcofuqsXRxWaTYZeHa8mLjC2doCwk/edit?usp=sharing">Google Doc"</a>; <a href="http://github.com/codeforamerica/openreferral">Github repo</a></li>
+<li>Open Referral model: <a href="https://docs.google.com/document/d/1RwHkuPeG5cztk-gcofuqsXRxWaTYZeHa8mLjC2doCwk/edit?usp=sharing">Google Doc</a>; <a href="http://github.com/codeforamerica/openreferral">Github repo</a></li>
 <li><a href="http://https//docs.google.com/spreadsheet/ccc?key=0ApU4bq5aLdmodHowcWxzNXZhWGV4OUY2RVg5M25TQVE&usp=sharing#gid=0">Glossary</a></li>
 
 <h4>Existing standards</h4>
