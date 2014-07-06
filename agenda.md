@@ -4,6 +4,27 @@ layout: default
 
 #Agenda
 
+<h2>Agenda</h2>
+<h3>Day One</h3>
+<li><strong>8AM</strong> Breakfast</li>
+<li><strong>8:30AM</strong> Welcome, introductions and overview</li>
+<li><strong>9:30AM</strong> Exploratory Exercises</li>
+<li><strong>12:30PM</strong> Lunch</strong></li>
+<li><strong>1:15PM</strong> Analytic Exercises</li>
+<li><strong>3:30PM</strong> Speed-geeking</li>
+<li><strong>4:30PM</strong> Wrap-up day one</li>
+<li><strong>5:30PM</strong> Optional post-workshop dinner and drinks (location TBA)</li>
+
+<h3>Day Two</h3>
+<li><strong>8AM</strong> Breakfast</li>
+<li><strong>8:30AM</strong> Review Day One</li>
+<li><strong>9AM</strong> Agenda Hacking [prompt: "What can we do?"] </li>
+<li><strong>3PM</strong> Report-outs</li>
+<li><strong>3:30PM</strong> Roadmapping</li>
+<li><strong>4:30PM</strong> Wrap-up day two</li>
+
+</p>
+
 To edit the main content on this page, locate the file named `agenda.md` in the site's directory. Use GitHub's online editor or your own text editor to make changes. You can use [markdown](http://daringfireball.net/projects/markdown/basics) to style your text. Or you can use HTML. Feel free to rename the file using the title of your choice!
 
 You'll need to update the related link in the side bar so people can find your new page. The side bar content can be found at `_includes/side-nav.html`.
