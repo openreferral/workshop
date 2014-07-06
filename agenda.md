@@ -23,7 +23,7 @@ layout: default
 <li><strong>3:30PM</strong> Roadmapping</li>
 <li><strong>4:30PM</strong> Wrap-up day two</li>
 
-</p>
+
 
 To edit the main content on this page, locate the file named `agenda.md` in the site's directory. Use GitHub's online editor or your own text editor to make changes. You can use [markdown](http://daringfireball.net/projects/markdown/basics) to style your text. Or you can use HTML. Feel free to rename the file using the title of your choice!
 
