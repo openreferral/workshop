@@ -4,6 +4,7 @@ category: 'site-open-referral-workshop'
 ---
 
 #Key Links
+<p>
 
 <h4>Open Referral documentation</h4>
 <li><a href="https://docs.google.com/document/d/1AdmufRDAjeC5lmcjbCSGxPWZvMKpgNQGWIStD7R4HS8/edit#">One Page summary</a>
@@ -18,5 +19,5 @@ category: 'site-open-referral-workshop'
 <li><a href="https://docs.google.com/spreadsheet/ccc?key=0Au5CZ4ZLjTHqdHUwZnNaZGpYYUxCNHE0cHRqZVhfdWc&usp=drive_web">Table of standards</a></li>
 <li>AIRS standards: <a href="http://www.airs.org/i4a/pages/index.cfm?pageid=3363">XSD</a>; <a href="www.211taxonomy.org">211 Taxonomy</a>; <a href="http://www.airs.org/files/public/AIRS_Standards_7_Final.pdf">full AIRS standards documentation</a></li>
 <li><a href="http://www.w3.org/wiki/WebSchemas/CivicServices">W3C civic services schema</a></li>
-<li><a href="http://www.acf.hhs.gov/initiatives-priorities/interoperability">National Human Services Information Architecture</a> [<a href="http://https//raw.github.com/hserv/open-human-services/master/doc/NHSIA_conceptual_data_model.jpeg">Logic Model</a></li>
+<li><a href="http://www.acf.hhs.gov/initiatives-priorities/interoperability">National Human Services Information Architecture</a> [<a href="http://https//raw.github.com/hserv/open-human-services/master/doc/NHSIA_conceptual_data_model.jpeg">Logic Model]</a></li>
 
