@@ -24,4 +24,4 @@ NIEM Functional Overview Graphic
 <h2>National Human Services Interoperability Architecture</h2>
 http://www.acf.hhs.gov/nhsia-definition
 NHSIA Conceptual Model Graphic
-![NHSIA Conceptual Model](http://https//raw.github.com/hserv/open-human-services/master/doc/NHSIA_conceptual_data_model.jpeg)
+![NHSIA Conceptual Model](http://raw.github.com/hserv/open-human-services/master/doc/NHSIA_conceptual_data_model.jpeg)
