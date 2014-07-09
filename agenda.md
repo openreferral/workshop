@@ -6,27 +6,7 @@ layout: default
 
 <h2>Agenda</h2>
 <h3>Day One</h3>
-8AM Breakfast
-8:30AM Welcome and overview
-9:30AM Getting to know each other
-10:40AM The users: profiles and personas
-12:30PM Lunch
-1:15PM Games!
-3:30PM Speed-geeking: human service informatic standards
-4:30PM Wrap-up day one
-5:30PM Optional post-workshop dinner and drinks (location TBA)
-
-<h3>Day Two</h3>
-8AM Breakfast
-8:30AM Agenda and Goals review
-9:15AM Clustering the questions
-10:10AM Breakout session Round 1
-11:40AM LUNCH
-12:30PM Breakout session Round 2
-2:10PM Breakout session Round 3
-3:40PM Roadmapping
-4:40PM Closing out
-
+<p class="c1"><span class="c0">8AM Breakfast</span></p><p class="c1"><span class="c0">8:30AM Welcome and overview</span></p><p class="c1"><span class="c0">9:30AM Getting to know each other</span></p><p class="c1"><span class="c0">10:40AM The users: profiles and personas</span></p><p class="c1"><span class="c0">12:30PM Lunch</span></p><p class="c1"><span class="c0">1:15PM Games!</span></p><p class="c1"><span class="c0">3:30PM Speed-geeking: human service informatic standards</span></p><p class="c1"><span class="c0">4:30PM Wrap-up day one</span></p><p class="c1"><span class="c0">5:30PM Optional post-workshop dinner and drinks (location TBA)</span></p><h3 class="c3 c11"><a name="h.l5rrgl8iuml5"></a><span class="c0 c8">Day Two</span></h3><p class="c1"><span class="c0">8AM Breakfast</span></p><p class="c1"><span class="c0">8:30AM Agenda and Goals review</span></p><p class="c1"><span class="c0">9:15AM Clustering the questions</span></p><p class="c1"><span class="c0">10:10AM Breakout session Round 1</span></p><p class="c1"><span class="c0">11:40AM LUNCH</span></p><p class="c1"><span class="c0">12:30PM Breakout session Round 2</span></p><p class="c1"><span class="c0">2:10PM Breakout session Round 3</span></p><p class="c1"><span class="c0">3:40PM Roadmapping</span></p><p class="c1"><span class="c0">4:40PM Closing out</span></p><p class="c1 c4"><span class="c0"></span></p><p class="c1 c4"><span class="c0"></span></p>
 
 
 To edit the main content on this page, locate the file named `agenda.md` in the site's directory. Use GitHub's online editor or your own text editor to make changes. You can use [markdown](http://daringfireball.net/projects/markdown/basics) to style your text. Or you can use HTML. Feel free to rename the file using the title of your choice!
