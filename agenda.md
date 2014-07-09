@@ -6,22 +6,26 @@ layout: default
 
 <h2>Agenda</h2>
 <h3>Day One</h3>
-<li><strong>8AM</strong> Breakfast</li>
-<li><strong>8:30AM</strong> Welcome, introductions and overview</li>
-<li><strong>9:30AM</strong> Exploratory Exercises</li>
-<li><strong>12:30PM</strong> Lunch</strong></li>
-<li><strong>1:15PM</strong> Analytic Exercises</li>
-<li><strong>3:30PM</strong> Speed-geeking</li>
-<li><strong>4:30PM</strong> Wrap-up day one</li>
-<li><strong>5:30PM</strong> Optional post-workshop dinner and drinks (location TBA)</li>
+8AM Breakfast
+8:30AM Welcome and overview
+9:30AM Getting to know each other
+10:40AM The users: profiles and personas
+12:30PM Lunch
+1:15PM Games!
+3:30PM Speed-geeking: human service informatic standards
+4:30PM Wrap-up day one
+5:30PM Optional post-workshop dinner and drinks (location TBA)
 
 <h3>Day Two</h3>
-<li><strong>8AM</strong> Breakfast</li>
-<li><strong>8:30AM</strong> Review Day One</li>
-<li><strong>9AM</strong> Agenda Hacking [prompt: "What can we do?"] </li>
-<li><strong>3PM</strong> Report-outs</li>
-<li><strong>3:30PM</strong> Roadmapping</li>
-<li><strong>4:30PM</strong> Wrap-up day two</li>
+8AM Breakfast
+8:30AM Agenda and Goals review
+9:15AM Clustering the questions
+10:10AM Breakout session Round 1
+11:40AM LUNCH
+12:30PM Breakout session Round 2
+2:10PM Breakout session Round 3
+3:40PM Roadmapping
+4:40PM Closing out
 
 
 
